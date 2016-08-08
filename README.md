@@ -1,7 +1,9 @@
 # MonkeyTest4iOS
 
 一、介绍
+
 iOSMonkeyKingTest是一款全天候·全流程自动化·无人值守的iOS APP Crash抓取小能手工具。
+
 
 二、特点
 
@@ -14,6 +16,7 @@ iOSMonkeyKingTest是一款全天候·全流程自动化·无人值守的iOS APP 
 2.4支持把Crash和PNG文件以附件形式自动发邮件给对应APP开发；
 
 2.5支持APP自动登陆功能。
+
 
 三、组成
 
@@ -32,3 +35,6 @@ iOSMonkeyKingTest是一款全天候·全流程自动化·无人值守的iOS APP 
 3.7 命令行发邮件：实现自动发邮件功能
 
 3.8 Shell脚本
+
+四、参考文献
+https://github.com/vigossjjj/CrashMonkey4IOS
