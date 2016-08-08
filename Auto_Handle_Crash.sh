@@ -1,8 +1,5 @@
 #!/bin/bash
 ##参数
-#APP_NAME=LeFeng
-#EMAIL_MAPPER=lefeng_ios
-#CRASH_NAME=LeFeng
 
 export PATH=$PATH:/usr/local/bin/
 export PATH=$PATH:~/Downloads/pngquant
