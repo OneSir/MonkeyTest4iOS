@@ -38,6 +38,8 @@ iOSMonkeyKingTest是一款全天候·全流程自动化·无人值守的iOS APP 
 
 四、参考文献
 
-https://github.com/vigossjjj/CrashMonkey4IOS
-https://github.com/ghughes/fruitstrap
-https://pngquant.org/
+https://github.com/vigossjjj/CrashMonkey4IOS；
+
+https://github.com/ghughes/fruitstrap；
+
+https://pngquant.org/；
