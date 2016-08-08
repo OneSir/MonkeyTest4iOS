@@ -36,7 +36,17 @@ iOSMonkeyKingTest是一款全天候·全流程自动化·无人值守的iOS APP 
 
 3.8 Shell脚本
 
-四、参考文献
+四、shell脚本说明
+
+4.1 AppName_iOS_Monkey_Branch_Build.sh 是定时打包使用Fruitstrap把ipa包安装到iPhone设备上的脚本；
+
+4.2 AppName_MonkeyKing_Test.sh 是执行自动登录功能和运行CrashMonkey4iOS的脚本；
+
+4.3 Auto_Handle_Crash.sh 是自动处理Crash并发送邮件的脚本；
+
+以上脚本仅是示例和思路，需要根据具体情况去修改，同时也欢迎各位大神有更好的思路分享。
+
+五、参考文献
 
 https://github.com/vigossjjj/CrashMonkey4IOS；
 
