@@ -2,7 +2,7 @@
 
 一、介绍
 
-iOSMonkeyKingTest是一款全天候·全流程自动化·无人值守的iOS APP Crash抓取小能手工具。
+MonkeyTest4iOS是一款全天候·全流程自动化·无人值守的iOS APP Crash抓取小能手工具。
 
 
 二、特点
@@ -32,7 +32,7 @@ iOSMonkeyKingTest是一款全天候·全流程自动化·无人值守的iOS APP 
 
 3.6 UIAutomation：实现自动登陆功能
 
-3.7 命令行发邮件：实现自动发邮件功能
+3.7 使用python发邮件：实现自动发邮件功能
 
 3.8 Shell脚本
 
